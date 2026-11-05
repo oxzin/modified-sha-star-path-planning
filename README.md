@@ -7,4 +7,6 @@ The implementation is based on the SHA-star algorithm, retaining its 16-neighbor
 
 The project is implemented in Python using a Jupyter Notebook.
 
+| Left Image Title | Right Image Title |
+| :---: | :---: |
 | ![Alt Text](docs/narrow.png) | ![Alt Text](docs/sharp.png) |
