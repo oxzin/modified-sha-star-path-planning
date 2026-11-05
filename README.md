@@ -6,3 +6,5 @@ This project presents a modified implementation of the SHA-star path-planning al
 The implementation is based on the SHA-star algorithm, retaining its 16-neighborhood A* search strategy and danger coefficient concept while introducing modifications to the Optimal Boundary Point (OBP) generation process and an additional path-smoothing stage.
 
 The project is implemented in Python using a Jupyter Notebook.
+
+![Alt Text](docs/narrow.png) ![Alt Text](docs/sharp.png)
